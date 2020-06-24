@@ -5,5 +5,8 @@ while count >= 1 do
   count-= 1
 end
 
+if count = 0 
+  
+
 
   
